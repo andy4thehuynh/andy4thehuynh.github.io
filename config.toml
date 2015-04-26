@@ -6,18 +6,13 @@ builddrafts = false
 canonifyurls = true
 title = "Jots of Code"
 author = "Andy Huynh"
-theme = "hugo-uno"
+theme = "blog-custom"
 
 [indexes]
         category = "categories"
         tag = "tags"
 [Params]
         AuthorName = "Andy Huynh"
-        description = "Tutorials and Derp Moments by @andy4thehuynh"
-        cover = "/images/background-cover.png"
-        github = "andy4thehuynh"
-        twitter = "andy4thehuynh"
-        linkedin = "andy-huynh/22/679/a92"
+        description = "Thoughts and tutorials by @andy4thehuynh"
         muut = "jots-of-code"
         email = "andy4thehuynh@gmail.com"
-        cv = ""
