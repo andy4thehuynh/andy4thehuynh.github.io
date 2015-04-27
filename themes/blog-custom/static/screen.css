@@ -55,6 +55,7 @@ a {
       width: 100%; } }
 
 .hithere {
+  padding: 40px 0;
   margin-top: 10px; }
   .hithere h2 {
     margin-bottom: 5px;
@@ -109,6 +110,7 @@ a {
     font-style: italic; }
     @media screen and (max-width: 1040px) {
       #header h1 {
+        margin-bottom: 30px;
         float: none; } }
   #header img {
     float: left;
@@ -268,7 +270,7 @@ a {
       width: 30px;
       height: 30px;
       position: absolute;
-      top: 10px;
+      top: 1px;
       right: -1px;
       border-radius: 0 5px 5px 0; }
       #mobile-nav .search .button:before {
@@ -432,7 +434,7 @@ a {
 
 article {
   border-bottom: 1px solid #dddddd;
-  border-top: 1px solid white;
+  border-top: 2px solid white;
   padding: 20px 0 5px 0;
   position: relative; }
   @media screen and (max-width: 800px) {
@@ -573,7 +575,6 @@ article {
   border-bottom: 1px solid #dddddd; }
   .nextprev .prev, .nextprev .next {
     float: left;
-    width: 400px;
     margin: 10px 0; }
   .nextprev .next {
     float: right;
