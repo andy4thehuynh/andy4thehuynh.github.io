@@ -8,7 +8,7 @@ title = "Ruby Map vs Compact"
 
 I use Ruby's `Array#map` to iterate and modify a collection of data. Let's explore a simple scenario where we need more than #map.
 
-```
+``` bash
 > irb
 >
 > arr = [1, 2, 3]
@@ -25,7 +25,7 @@ NoMethodError: undefined method '*' for nil:NilClass
 
 As you can tell, #map can't operate over nil values. This is expected and a common case when dealing with Ruby #map. Luckily, we have #compact which will omit nil values from our collection. This way, we can expect #map to act accordingly and not blow up on us. 
 
-```
+``` bash
 > arr = [1, 2, 3, nil, 5]
 > arr.compact.map { |x| x * 5 }
 => [5, 10, 15, 25]

@@ -1,18 +1,12 @@
-baseurl = ""
+baseurl = "http://andy4thehuynh.github.io/"
+title = "Jots of Code"
+author = "Andy Huynh"
+
+builddrafts = false
 languageCode = "en-us"
 contentdir = "content"
 publishdir = "public"
-builddrafts = false
 canonifyurls = true
-title = "Jots of Code"
-author = "Andy Huynh"
-theme = "blog-custom"
 
-[indexes]
-        category = "categories"
-        tag = "tags"
-[Params]
-        AuthorName = "Andy Huynh"
-        description = "Thoughts and tutorials by @andy4thehuynh"
-        muut = "jots-of-code"
-        email = "andy4thehuynh@gmail.com"
+pygmentsuseclasses = true
+theme = "nietzsche"
