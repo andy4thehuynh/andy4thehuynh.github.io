@@ -9,4 +9,5 @@ publishdir = "public"
 canonifyurls = true
 
 pygmentsuseclasses = true
+disqusShortname = "andy4thehuynh"
 theme = "nietzsche"

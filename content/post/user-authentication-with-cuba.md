@@ -2,10 +2,9 @@
 date = "2015-01-25T11:56:12-08:00"
 title = "User Authentication with Cuba"
 description = ""
-menu = "main"
 +++
 
-User authentication should be secure and easy to understand. We'll create a basic authentication interface using tools from the boys at Openredis: [Cuba](https://github.com/soveran/cuba), [Shield](https://github.com/cyx/shield) and [Mongoid](https://github.com/mongoid/mongoid). If you haven't already, check out [Openredis](https://openredis.com/).
+User authentication should be secure and easy to understand. We'll create a basic authentication interface using tools built by the boys at Openredis: [Cuba](https://github.com/soveran/cuba), [Shield](https://github.com/cyx/shield) and [Mongoid](https://github.com/mongoid/mongoid). If you haven't already, check out [Openredis](https://openredis.com/). It's awesome.
 
 ### Audience
 Hopefully you're familiar with a Ruby framework. If not, Cuba is a fantastic gateway framework to understand the way of the web and how Ruby gets us writing expressive and readable code.

@@ -16,3 +16,4 @@ Off the bat, you won't be marketable nor will you be more efficient with a micro
 3 Cons
 
 Your favorite Javascript framework: Mithril.
+
