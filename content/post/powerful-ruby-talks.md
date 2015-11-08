@@ -1,8 +1,11 @@
 +++
-date = "2015-06-25T17:26:11-07:00"
 draft = true
+author = "Andy Huynh"
+date = "2015-06-25T17:26:11-07:00"
+linktitle = "Powerful Coding Talks"
 title = "Powerful Coding Talks"
-
+weight = 10
+description = "I found these talks helpful in improving my career as a developer"
 +++
 
 This post serves as a personal on-going queue of talks that inspired epiphanies and aha-moments. I hope you'll leave a comment and help me curate this list!

@@ -1,13 +1,46 @@
 baseurl = "http://andy4thehuynh.github.io/"
+languageCode = "en-us"
 title = "Jots of Code"
-author = "Andy Huynh"
+theme = "hugo-steam-theme"
+disqusShortname = "andy4thehuynh"
+paginate = 10
 
 builddrafts = false
-languageCode = "en-us"
 contentdir = "content"
 publishdir = "public"
 canonifyurls = true
-
 pygmentsuseclasses = true
-disqusShortname = "andy4thehuynh"
-theme = "nietzsche"
+
+
+[params]
+	title = "Hi, I'm Andy"
+	subtitle = "<p>I work at <a href='http://www.kajabi.co'>Kajabi</a>, a SaaS that builds awesome tools for internet entrepreneurs."
+	copyright = "Released under the MIT license."
+
+
+	# You can choose between green, orange, red and blue.
+	themeColor = "green"
+	# Enable Google Analytics be inserting your tracking code
+	googleAnalytics = ""
+
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Andy Huynh"
+	bio = "I am a self taught Ruby developer two years into a software apprenticeship. I learn from awesome developers that make tools for Google to enthusists implementing their own Bootstrap like Twitter. I am interested in helping aspiring developers filling in the gaps of their coding game."
+	description = "A blog for Ruby on Rails developers figuring it out on the fly"
+	location = "" # optional
+	twitter = "andy4thehuynh" # optional
+	github = "andy4thehuynh" # optional
+
+	# Enable a comment system
+	# You can choose between Disqus or Google Plus by setting comments
+	# to disqus or googleplus. For using Disqus you need to enter your
+	# shortname in disqusShortname at the top of the configs. 
+	comments = "disqus"
+
+	# Customize or translate the strings
+	keepReadingStr = "Read more"
+	backtotopStr = "Scroll to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"

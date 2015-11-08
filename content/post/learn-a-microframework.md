@@ -1,8 +1,11 @@
 +++
-date = "2015-04-27T17:26:11-07:00"
 draft = true
+author = "Andy Huynh"
+date = "2015-04-27T17:26:11-07:00"
+linktitle = "Learn A Microframework"
 title = "Learn A Microframework"
-
+weight = 10
+description = "I find these tips useful understanding frameworks"
 +++
 
 Warning: this is a slight rant (constructive nonetheless). Friends learning to code their own projects. Awesome! It's important you understand the underlyings of your machine. Tech is everywhere. Look out for smart fridges with an OS. I'm talking to you Samsung.
