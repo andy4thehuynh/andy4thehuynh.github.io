@@ -4,10 +4,10 @@ title = "About Me"
 menu  = "main"
 +++
 
-I'm Andy Huynh, but you already know that. My internet handle is `andy4thehuynh`. It's punny and stuck through college. Speaking of college, I graduated doubling in music and political science from UC Irvine in 2012.
+My name is Andy Huynh. I'm known on the internet as `andy4thehuynh`. It's punny and stuck through college. I took longer to graduate, but finished UC Irvine with a double in political science and music.
 
-My shortlived entertainment law career gave me a year to hone my computer programming dexterity.
+A short internship in music entertainment law was all I needed to look for a new career.
 
-In 2013, I joined Kajabi, a Ruby on Rails shop that targets the Internet Marketing niche. I interned six months until I received an offer to join the team full time. The rest is history.
+In 2013, I joined Kajabi, a Ruby on Rails shop that targets the Internet Marketing niche. Six months into the internship, I got an offer to join the team full time. The rest is history.
 
-I dig programming. It's empowering and artful. I am fortunate to work with such talented developers. I credit my coding success to: [Brendon Murphy](https://github.com/bemurphy), [Jeremy Saenz](https://github.com/codegangsta) and [Ben Hays](https://github.com/FuturaExtraBold). 
+It was painful learning to code, but all great skills are tough at first. I enjoy being productive working on feature requests and bugs for Kajabi. I am bless to learn from talented, accomplished developers: [Brendon Murphy](https://github.com/bemurphy), [Jeremy Saenz](https://github.com/codegangsta) and [Ben Hays](https://github.com/FuturaExtraBold). 
