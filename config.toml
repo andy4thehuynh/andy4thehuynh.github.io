@@ -14,7 +14,7 @@ pygmentsuseclasses = true
 
 [params]
 	title = "Hi, I'm Andy"
-	subtitle = "<p>I work at <a href='http://www.kajabi.co'>Kajabi</a>, a SaaS that builds awesome tools for internet entrepreneurs."
+	subtitle = "<p>I work at <a href='http://www.kajabi.co'>Kajabi</a>, a SaaS that builds awesome tools for internet entrepreneurs. My blog is geared toward junior developers and gotcha moments they might accrue early in their career like I did."
 	copyright = "Released under the MIT license."
 
 
@@ -27,7 +27,7 @@ pygmentsuseclasses = true
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
 	name = "Andy Huynh"
-	bio = "I am a self taught Ruby developer two years into a software apprenticeship. I learn from awesome developers that make tools for Google to enthusists implementing their own Bootstrap like Twitter. I am interested in helping aspiring developers filling in the gaps of their coding game."
+	bio = "I have a passion for learning. Coding just felt right. Developing in Rails for the past two years. I encourage everyone to find a software apprenticeship to enjoy a good career. I am interested in helping aspiring developers filling in the gaps of their coding game."
 	description = "A blog for Ruby on Rails developers figuring it out on the fly"
 	location = "" # optional
 	twitter = "andy4thehuynh" # optional
