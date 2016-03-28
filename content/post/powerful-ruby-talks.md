@@ -23,3 +23,5 @@ This post serves as a personal on-going queue of talks that inspired epiphanies 
   - WHYYY HERE 
 - [**Learning to Love JavaScript**](https://www.youtube.com/watch?v=seX7jYI96GE&index=26&list=PLAkcv_ShBZL9bLqH94YgzjWB4L5Un959G)
   - WHYYY HERE 
+- [**All the Little Things - Sandy Metz**](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+  - WHYYY HERE 
