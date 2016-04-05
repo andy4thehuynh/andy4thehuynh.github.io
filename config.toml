@@ -14,12 +14,12 @@ pygmentsuseclasses = true
 
 [params]
 	title = "Hi, I'm Andy"
-	subtitle = "<p>I work at <a href='http://www.kajabi.co'>Kajabi</a>, a SaaS that builds awesome tools for internet entrepreneurs. My blog is geared toward junior developers and gotcha moments they might accrue early in their career like I did."
+	subtitle = "<p>I work at <a href='http://www.kajabi.co'>Kajabi</a>, a SaaS that builds awesome tools for internet entrepreneurs."
 	copyright = "Released under the MIT license."
 
 
 	# You can choose between green, orange, red and blue.
-	themeColor = "green"
+	themeColor = "blue"
 	# Enable Google Analytics be inserting your tracking code
 	googleAnalytics = ""
 
@@ -27,8 +27,8 @@ pygmentsuseclasses = true
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
 	name = "Andy Huynh"
-	bio = "I have a passion for learning. Coding just felt right. Developing in Rails for the past two years. I encourage everyone to find a software apprenticeship to enjoy a good career. I am interested in helping aspiring developers filling in the gaps of their coding game."
-	description = "A blog for Ruby on Rails developers figuring it out on the fly"
+	bio = "I'm a Rails developer thankful to be apart of a software apprenticeship. I'm interested in helping aspiring developers fill in the gaps of their coding game."
+	description = "A blog for Ruby on Rails developers figuring it out on the fly."
 	location = "" # optional
 	twitter = "andy4thehuynh" # optional
 	github = "andy4thehuynh" # optional
