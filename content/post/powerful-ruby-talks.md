@@ -8,11 +8,12 @@ weight = 10
 description = "I found these talks helpful in improving my career as a developer"
 +++
 
-This post serves as a personal on-going queue of talks that inspired epiphanies and aha-moments. I hope you'll leave a comment and help me curate this list!
+I found these talks vital to my development as a developer. This post is an ongoing queue of talks I'll constantly add to. Let me know if they helped you too!
 
 - [**The Magic Tricks of Testing**](https://www.youtube.com/watch?v=URSWYvyc42M&list=PLAkcv_ShBZL9bLqH94YgzjWB4L5Un959G&index=43)
-  - Note RSpec3 includes verifying doubles which makes it  
-  - WHYYY HERE 
+  - Sandi Metz introduces the TDD mentality.
+
+
 - [**The Big Picture**](https://www.youtube.com/watch?v=VyuMWYzl9gM)
   - WHYYY HERE 
 - [**Harnessing the True Power of Regular Expressions in Ruby**](https://www.youtube.com/watch?v=JfwS4ibJFDw)
