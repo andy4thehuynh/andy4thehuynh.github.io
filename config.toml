@@ -19,7 +19,7 @@ pygmentsuseclasses = true
 
 
 	# You can choose between green, orange, red and blue.
-	themeColor = "blue"
+	themeColor = "green"
 	# Enable Google Analytics be inserting your tracking code
 	googleAnalytics = ""
 
