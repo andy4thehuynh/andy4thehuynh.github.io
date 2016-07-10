@@ -14,7 +14,7 @@ pygmentsuseclasses = true
 
 [params]
 	title = "Hi, I'm Andy"
-	subtitle = "<p>I work at <a href='http://www.kajabi.co'>Kajabi</a>, a SaaS that builds awesome tools for internet entrepreneurs."
+	subtitle = "I work at Kajabi, a SaaS that builds awesome tools for internet entrepreneurs."
 	copyright = "Released under the MIT license."
 
 
