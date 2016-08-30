@@ -2,10 +2,7 @@
 draft = true
 author = "Andy Huynh"
 date = "2015-06-25T17:26:11-07:00"
-linktitle = "Powerful Coding Talks"
 title = "Powerful Coding Talks"
-weight = 10
-description = "I found these talks helpful in improving my career as a developer"
 +++
 
 I found these talks vital to my development as a developer. This post is an ongoing queue of talks I'll constantly add to. Let me know if they helped you too!

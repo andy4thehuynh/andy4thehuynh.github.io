@@ -1,10 +1,7 @@
 +++
 author = "Andy Huynh"
 date = "2016-04-01T17:26:11-07:00"
-linktitle = "Dirty Rails Schema Fixes"
 title = "Dirty Rails Schema Fixes"
-weight = 10
-description = "Switching git branches with outstanding migrations leaves your schema in awkward states. Try these quick fixes."
 +++
 
 You might get asked to switch tasks while working on a feature. Outstanding migrations are still in your schema and other conflicting migrations might put your schema in an inaccurate state. Here are some quick fixes:

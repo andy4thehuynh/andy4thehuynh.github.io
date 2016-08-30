@@ -1,10 +1,7 @@
 +++
 author = "Andy Huynh"
 date = "2015-07-25T16:28:14-08:00"
-linktitle = "Distinguish Between Ruby and Rails Code"
 title = "Distinguish Between Ruby and Rails Code"
-weight = 10
-description = "I struggled differentiating Ruby vs Rails syntax in a codebase. Check out my tricks"
 +++
 
 A common mistake among new developers is asking premature questions. Top shelf developers are best utilized as a last resort. Rails developers are expected to read and understand a TON of code. Hopefully you'll be reading good, idiomatic Ruby/Rails code. Jostling whether a class is Ruby or Rails is a common bump in the road.

@@ -1,10 +1,7 @@
 +++
 author = "Andy Huynh"
 date = "2016-05-18T16:28:14-08:00"
-linktitle = "Data attributes in Rails Helpers"
 title = "Data Attributes in Rails helpers"
-weight = 10
-description = "Here's a hack on setting data attributes without values in a Rails helper."
 +++
 
 I was given the task of creating a copy to clipboard button for readonly inputs. This feature would be omnipresent in the codebase, a great candidate for a helper. The trickiness came when implementing attributes without values in Rails helpers. 

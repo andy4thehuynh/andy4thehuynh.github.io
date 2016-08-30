@@ -1,10 +1,7 @@
 +++
 author = "Andy Huynh"
 date = "2016-03-24T17:26:11-07:00"
-linktitle = "Memoization"
 title = "Memoization"
-weight = 10
-description = "Cache your methods you call more than once."
 +++
 
 Ruby has a memoization operator, `||=`. In a nutshell, we use it for caching the result of a method to avoid querying it over and over. Our application can function faster as a result! There's a particular use case to keep in mind.

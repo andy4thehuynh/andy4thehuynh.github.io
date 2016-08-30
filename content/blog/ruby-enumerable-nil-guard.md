@@ -1,10 +1,7 @@
 +++
 author = "Andy Huynh"
 date = "2015-06-24T14:31:46-07:00"
-linktitle = "Ruby Enumerable Nil Guard"
 title = "Ruby Enumerable Nil Guard"
-weight = 10
-description = "My favorite Ruby enumerable trick for enumerating over objects without getting errors for nil cases"
 
 +++
 

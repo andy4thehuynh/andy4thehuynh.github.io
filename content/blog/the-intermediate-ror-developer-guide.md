@@ -1,10 +1,7 @@
 +++
 author = "Andy Huynh"
 date = "2015-02-02T12:24:48-08:00"
-linktitle = "The Intermediate RoR Developer Guide"
 title = "The Intermediate RoR Developer Guide"
-weight = 10
-description = "An essential resource for junior devs on the Rails Prime Stack"
 +++
 
 Junior devs on the Rails Prime stack, listen up.

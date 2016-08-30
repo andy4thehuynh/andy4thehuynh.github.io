@@ -2,10 +2,7 @@
 draft = true
 author = "Andy Huynh"
 date = "2016-05-01T11:56:12-08:00"
-linktitle = "RSpec be vs eq matchers"
 title = "RSpec be vs eq matchers"
-weight = 10
-description = ""
 +++
 
 When writing tests and comparing strings, I would try both `be` and `eq` RSpec matchers. Whichever got green, I went with that. Don't assume, like I did.

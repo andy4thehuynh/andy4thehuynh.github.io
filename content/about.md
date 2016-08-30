@@ -1,7 +1,7 @@
 +++
+author = "Andy Huynh"
 date = "2015-03-16T16:28:14-08:00"
 title = "About Me"
-menu  = "main"
 +++
 
 My name is Andy Huynh. I'm known on the internet as `andy4thehuynh`. It's punny and stuck through college. Speaking of college, I finished with degrees in political science and music. Far from software related, but they shaped my story.
