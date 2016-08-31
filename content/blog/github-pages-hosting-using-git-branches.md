@@ -1,4 +1,5 @@
 +++
+draft = false
 author = "Andy Huynh"
 date = "2015-03-16T16:28:14-08:00"
 title = "Github Pages Hosting using Git's Branches"

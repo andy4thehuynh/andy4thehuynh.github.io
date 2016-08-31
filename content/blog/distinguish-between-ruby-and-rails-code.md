@@ -1,4 +1,5 @@
 +++
+draft = false
 author = "Andy Huynh"
 date = "2015-07-25T16:28:14-08:00"
 title = "Distinguish Between Ruby and Rails Code"

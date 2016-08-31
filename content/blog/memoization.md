@@ -1,4 +1,5 @@
 +++
+draft = false
 author = "Andy Huynh"
 date = "2016-03-24T17:26:11-07:00"
 title = "Memoization"

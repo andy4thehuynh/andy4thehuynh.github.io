@@ -1,4 +1,5 @@
 +++
+draft = false
 author = "Andy Huynh"
 date = "2015-02-02T12:24:48-08:00"
 title = "The Intermediate RoR Developer Guide"

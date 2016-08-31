@@ -1,4 +1,5 @@
 +++
+draft = false
 author = "Andy Huynh"
 date = "2016-05-18T16:28:14-08:00"
 title = "Data Attributes in Rails helpers"

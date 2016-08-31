@@ -1,4 +1,5 @@
 +++
+draft = false
 author = "Andy Huynh"
 date = "2015-06-24T14:31:46-07:00"
 title = "Ruby Enumerable Nil Guard"
