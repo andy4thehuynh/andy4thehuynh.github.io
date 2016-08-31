@@ -5,7 +5,7 @@ date = "2016-08-29T11:56:12-08:00"
 title = "Understanding RSpec be and eq Matchers"
 +++
 
-I confuse RSpec's `be` and `eq` matchers when writing. They're basically one or the other and the specs pass. It's better if you understand them though. Here's my train of thought on them:
+I confuse RSpec's `be` and `eq` matchers when writing specs. It's basically one or the other and the specs pass. Better you understand them to be a better programmer. Here's my train of thought:
 
 ```ruby
 scenario "User's name is Jon" do
