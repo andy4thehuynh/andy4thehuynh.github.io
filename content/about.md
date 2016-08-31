@@ -8,7 +8,7 @@ Software Engineer at Kajabi.
 
 Internet handle: `andy4thehuynh`.
 
-Political Science and Music degrees from UC Irvine.
+Vocal Music and Political Science degrees from UC Irvine.
 
 I write about: Ruby and Rails tricks, junior developer tips and things I wish I knew two months ago.
 
