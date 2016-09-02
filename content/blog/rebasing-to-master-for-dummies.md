@@ -9,7 +9,7 @@ You'll want to do yourself a favor before making major rebases from master to yo
 
 #### Save your latest SHA
 
-Jot down the sha of your latest commit. This has saved my ass several times. You'll avoid sifting through the dreaded reflog trying to figure out where you fucked up. Execute a `git log` and copy the SHA to your notes. Use `git reset HEAD <your_sha>` to go back to that state.
+Jot down the sha of your latest commit. This has saved my ass several times. You'll avoid sifting through the dreaded reflog trying to figure out where you fucked up. Execute a `git log` and copy the SHA to your notes. Use `git reset --hard <your_sha>` to go back to that state.
 
 #### Delete your local branch and pull from Github
 
