@@ -41,8 +41,8 @@ To generate tokens for existing accounts, open a console and update their tokens
 
 #### Rails Console
 ```
-Account.find_by_id(<account_id>).
-  update!(affiliate_token: SecureRandom.urlsafe_base64(8))
+> Account.find_by_id(<account_id>).
+    update!(affiliate_token: SecureRandom.urlsafe_base64(8))
 ```
 
 If you're keen on rake task migrations, it wouldn't be terrible to batch update accounts either..
