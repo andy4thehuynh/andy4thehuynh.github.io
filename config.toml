@@ -25,6 +25,7 @@ Description = "Digesting books, talks and meetups will land you a job like me!"
 Email = "andy4thehuynh@gmail.com"
 FaviconFile = "favicon.io"
 GitHub = "https://github.com/andy4thehuynh"
+HighlightJS = true
 Initials = "ah" # Displayed on single post page; DEPRECATED in v0.3.0.
 Lang = "en"
 LinkedIn = "https://www.linkedin.com/in/andy-huynh-a9267922"
