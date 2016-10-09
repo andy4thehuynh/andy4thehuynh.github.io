@@ -12,3 +12,5 @@ It wouldn't hurt to sound like "one of them." I compiled a list that might help:
 **Marriage** - when bringing two concepts together. (ex:)
 **Coupled together** - stuck with or be associated with. (ex:)
 **Secret Sauce** - what everyone and their moms want that you got.
+**Yak Shaving** - when a chain of seemingly related and necessary tasks distract you from your real goal.
+**Vanilla** - plain, without any spice or flavor. (Ex: vanilla js is simply javascript without any fancy libraries. Just our the box js.)
