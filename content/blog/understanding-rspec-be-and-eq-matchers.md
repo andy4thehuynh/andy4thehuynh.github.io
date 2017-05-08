@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["RSpec", "Rails"]
 date = "2016-08-29T11:56:12-08:00"
 title = "Understanding RSpec be and eq Matchers"
+description = "Avoid an error you'll see constantly with this trick"
+type = "post"
 +++
 
 I confuse RSpec's `be` and `eq` matchers when writing specs. It's basically one or the other and the specs pass. Better you understand them to be a better programmer. Here's my train of thought:

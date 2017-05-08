@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Git"]
 date = "2015-03-16T16:28:14-08:00"
-title = "Github Pages Hosting using Git's Branches"
+title = "Another Deploy Workflow To Github Pages"
+description = "Github Pages Hosting using Git Branches"
+type = "post"
 +++
 
 Utilizing Git's ideas of branches and Jekyll or Hugo blogging services, we can create simple deployment workflows with Github's free hosting. Shout out to [Codegangsta](https://github.com/codegangsta) for inspiring this post. My blog is powered by Hugo, below is my setup deploying a fresh Hugo repo to Github Pages.

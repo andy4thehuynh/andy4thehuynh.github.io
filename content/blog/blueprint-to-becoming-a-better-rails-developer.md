@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Rails", "Junior Developer"]
 date = "2015-02-02T12:24:48-08:00"
-title = "The Intermediate RoR Developer Guide"
+title = "Blueprint to Becoming a Better Rails Developer"
+description = "The Intermediate RoR Developer Guide"
+type = "post"
 +++
 
 Junior devs on the Rails Prime stack, listen up.

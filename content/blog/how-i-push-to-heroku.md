@@ -1,7 +1,10 @@
 +++
 author = "Andy Huynh"
+categories = ["Heroku"]
 date = "2016-10-09T17:26:11-07:00"
-title = "Deploying to Production"
+title = "How I Push To Heroku"
+description = "Deploying to Production"
+type = "post"
 +++
 
 This post serves as a deploy catalog.

@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Vim"]
 date = "2016-08-28T12:24:48-08:00"
-title = "Save Vim Keystrokes when Saving"
+title = "To :wq or :x, that is the question"
+description = "Save Vim Keystrokes when Saving"
+type = "post"
 +++
 
 If your workflow consists of using Vim and commiting code with Github, you'll often see **THIS** screen:

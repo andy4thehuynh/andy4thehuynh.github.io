@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Git"]
 date = "2016-08-30T11:56:12-08:00"
-title = "Save your Latest SHA when Rebasing to Master"
+title = "Your SHA is Your Friend"
+description = "Save your Latest SHA when Rebasing to Master"
+type = "post"
 +++
 
 You'll want to do yourself a favor before making major rebases from master to your feature branch.

@@ -1,9 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Ruby"]
 date = "2015-06-24T14:31:46-07:00"
-title = "Ruby Enumerable Nil Guard"
-
+title = "Build Confidence Using Enumerables"
+description = "Ruby Enumerable Nil Guard"
+type = "post"
 +++
 
 Ruby is notorious for its enumerable library. I frequent Ruby's `Array#map` to iterate and modify a collection of data. A common occurrence is looping over a collection and getting an `undefined method _ for nil:NilClass`.

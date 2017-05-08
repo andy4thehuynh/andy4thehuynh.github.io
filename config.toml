@@ -1,35 +1,95 @@
-theme = "cocoa"
 baseurl = "http://andy4thehuynh.github.io/"
-builddrafts = false
-canonifyurls = true
-contentdir = "content"
-languageCode = "en-US"
-layoutdir = "layouts"
-publishdir = "public"
-author = "Andy Huynh"
-title = "andy4thehuynh's blog"
-pygmentsuseclasses = true
+languageCode = "en-us"
+title = "Andy Huynh's Blog"
+theme = "hugo-future-imperfect"
+preserveTaxonomyNames = true
+paginate = 7
 disqusShortname = "andy4thehuynh"
-pluralizelisttitles = false
-
-[permalinks]
-fixed = ":title/"
-blog = "blog/:slug/"
+googleAnalytics = ""
 
 [params]
-Author = "Andy Huynh"
-CacheBuster = true
-DateForm = "Jan 2, 2006"
-DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
-Description = "Digesting books, talks and meetups will land you a job like me!"
-Email = "andy4thehuynh@gmail.com"
-FaviconFile = "favicon.io"
-GitHub = "https://github.com/andy4thehuynh"
-HighlightJS = true
-Initials = "ah" # Displayed on single post page; DEPRECATED in v0.3.0.
-Lang = "en"
-LinkedIn = "https://www.linkedin.com/in/andy-huynh-a9267922"
-Twitter = "https://twitter.com/Andy4thehuynh"
-ExtraCssFiles = [ "/css/override.css"  ] # In your `static/css`, add/remove files as necessary.
+    # Sets the meta tag description, usually reserved for the main page
+    description          = "Digesting books, talks and meetups will land you a job like me!"
+    # This will appear on the top left of the navigation bar
+    navbarTitle          = "Andy Huynh"
+    # Social media buttons that appear on the sidebar
+    socialAppearAtTop    = true
+    socialAppearAtBottom = true
+    # set this to the section name if section is not post
+    viewMorePostLink     = "/blog/"
 
-paginate = 10
+# Optional Params
+    categoriesByCount    = true
+    includeReadingTime   = true
+    # The set of favicons used are based on the write-up from this link:
+    # https://github.com/audreyr/favicon-cheat-sheet
+    # Please see the favicon partial template for more information
+    loadFavicon          = false
+    faviconVersion       = ""
+
+    # Load custom CSS or JavaScript files. This replaces the deprecated params
+    # minifiedFilesCSS and minifiedFilesJS. The variable is an array so that you
+    # can load multiple files if necessary. You can also load the standard theme
+    # files by adding the value, "default".
+    # customCSS            = ["default", "/path/to/file"]
+    # customJS             = ["default", "/path/to/file"]
+
+    # Loading min files for exampleSite
+    # customCSS            = ["/css/main.min.css"]
+    # customJS             = ["/js/main.min.js"]
+
+# parms.intro will appear on the sidebar
+# This is optional, but it's suggested to use
+[params.intro]
+    header    = "It's Andy."
+
+    paragraph = "An unpaid <a href=\"https://newkajabi.com/\">Kajabi</a> intern that just started getting paid. Tutorials, tricks, jokes - I do it all."
+
+    about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+
+# This will also appear on the sidebar.
+# A width of less than 100px is recommended
+# This is optional
+[params.intro.pic]
+    # src       = "/img/main/logo.jpg"
+    # modify your picture in the shape of a circle or
+    # future imperfect's hexagonal shape
+    circle    = false
+    imperfect = true
+    width     = ""
+    alt       = ""
+
+# Adjust the amount of recent posts on the sidebar.
+# This is optional. The default value 5 will be used
+[params.postAmount]
+    sidebar = 7
+
+# Set up your menu items in the navigation bar
+# You can use identifier to prepend a font awesome icon to your text
+[[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    identifier = "fa fa-newspaper-o"
+    weight = 1
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"
+    identifier = "fa fa-sitemap"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    identifier = "fa fa-user"
+    weight = 3
+
+# Insert your username and the icon will apear on the page as long as
+# socialAppearAtTop or socialAppearAtBottom is set to true in the params area
+# The social media icons will appear on the sidebar
+[social]
+    github          = "andy4thehuynh"
+    bitbucket       = "andy4thehuynh"
+    instagram       = "andy4thehuynh"
+    twitter         = "andy4thehuynh"
+    email           = "andy4thehuynh@gmail.com"

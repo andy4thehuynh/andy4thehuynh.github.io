@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Rails"]
 date = "2016-04-01T17:26:11-07:00"
-title = "Dirty Rails Schema Fixes"
+title = "Clean Your Schema"
+description = "Dirty Rails Schema Fixes"
+type = "post"
 +++
 
 You might get asked to switch tasks while working on a feature. Outstanding migrations are still in your schema and other conflicting migrations might put your schema in an inaccurate state. Here are some quick fixes:

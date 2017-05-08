@@ -1,8 +1,10 @@
 +++
-draft = false
+author = "Andy Huynh"
+categories = ["Ruby"]
 date = "2016-09-13T20:45:21-07:00"
-title = "That One Time to Mutate Ruby Objects"
-
+title = "Don't Deal With Ambiguous Data"
+description = "Mutate Ruby Objects or Don't. Never combine the two."
+type = "post"
 +++
 
 Everytime an object or variable is invoked by a non mutating action, the object remains untouched. This is particularly relevant when passing objects around via method calls. If the passed hash gets mutated along the chain, receiving class method require more responsibility to handle ambiguous data. New hash keys could be introduced or removed which changes your expectation of what you're getting. This is cautionary coding we want to avoid.

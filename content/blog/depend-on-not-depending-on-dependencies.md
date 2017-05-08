@@ -1,7 +1,10 @@
 +++
 author = "Andy Huynh"
+categories = ["Code Review"]
 date = "2016-10-22T17:26:11-07:00"
-title = "A Simple Code Review Best Practice"
+title = "Depend on Not Depending on Dependencies"
+description = "A simple code review best practice."
+type = "post"
 +++
 
 When reviewing a pull request that contains a new gem, search it in RubyGems and check the homepage. Most homepages lead you to Github. Here, we can view its dependencies.

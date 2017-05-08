@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Rails"]
 date = "2016-05-18T16:28:14-08:00"
-title = "Data Attributes in Rails helpers"
+title = "Understand Javascript Data Tags With Me"
+description = "Data Attributes in Rails helpers"
+type = "post"
 +++
 
 I was given the task of creating a copy to clipboard button for readonly inputs. This feature would be omnipresent in the codebase, a great candidate for a helper. The trickiness came when implementing attributes without values in Rails helpers. 

@@ -1,13 +1,15 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Ruby"]
 date = "2016-09-09T17:26:11-07:00"
-title = "Guard against Double Loading when Monkeypatching with Alias Methods"
+title = "Stack Level Too Deep - Not Too Deep For Me"
+description = "Guard against Double Loading when Monkeypatching with Alias Methods"
+type = "post"
 +++
 
 Before we discuss how to guard against a double load when monkeypatching with an alias method, know that a `stack-level-too-deep` error is a good indicator your method has already been defined. It loaded already and is trying to load again.
 
-This is commonplace in backgroudn jobs where a class might get loaded more than once. It's unfortunate for your monkeypatched method being called because you'll go through an infinite loop which leads to the error above.
+This is commonplace in background jobs where a class might get loaded more than once. It's unfortunate for your monkeypatched method being called because you'll go through an infinite loop which leads to the error above.
 
 For this example, we'll use Ruby's Money gem. In particular, [Money#format](https://github.com/RubyMoney/money/blob/39b617cca8f02c885cc8246e0aab3e9dc5f90e15/lib/money/currency/heuristics.rb#L92).
 

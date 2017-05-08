@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Git"]
 date = "2016-09-02T16:28:14-08:00"
-title = "Git Stash and Diff as Experimental Tools"
+title = "Use Git To Debug Your Problems"
+description = "Git Stash and Diff as Experimental Tools"
+type = "post"
 +++
 
 A common scenario working on a new feature is to recklessly code and _pray_ it all works. Often times, this **MIGHT** work. Sometimes, shit hit the fan.

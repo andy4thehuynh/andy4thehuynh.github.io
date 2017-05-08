@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Vim"]
 date = "2016-09-03T17:26:11-07:00"
-title = "Accurate Spelling Trick with Vim"
+title = "Typo All You Want with Vim"
+description = "Just a trick for more accurate spelling with Vim"
+type = "post"
 +++
 
 I like to code recklessly. Spelling errors aren't uncommon when this happens. Defining variables and calling them in different places where I expect them to work and they DON'T work is a problem. There's a command with Vim that's handy for this situation.

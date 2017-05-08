@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Vim"]
 date = "2016-09-07T10:25:06-07:00"
-title = "Create a Leader Command for Vim Paste Mode"
+title = "Customize Your Vim Setup; Thank Me Later"
+description = "Create a Leader Command for Vim Paste Mode"
+type = "post"
 +++
 
 Ever copy something to your clipboard to **NOT** have it appear as you would expect in Vim? Pasting from another application to Vim yields wonky results because Vim doesn't know how to handle the clipboard's content.

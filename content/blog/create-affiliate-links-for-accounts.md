@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Vim", "Tutorial"]
 date = "2016-08-31T17:26:11-07:00"
-title = "Tutorial - Create Affiliate Links for Accounts"
+title = "WTF are Affiliate Links?"
+description = "Tutorial - Create Affiliate Links for User Accounts"
+type = "post"
 +++
 
 Your SaaS project is taking off and you're making $$. Customers want to sell your product. Let's utilize Rails to create affiliate links so customer accounts will sell for you.

@@ -1,8 +1,10 @@
 +++
-draft = false
 author = "Andy Huynh"
+categories = ["Ruby", "Rails"]
 date = "2015-07-25T16:28:14-08:00"
-title = "Distinguish Between Ruby and Rails Code"
+title = "Is it Ruby, or Rails Code?"
+description = "Distinguish Between The Two With This Trick"
+type = "post"
 +++
 
 A common mistake among new developers is asking premature questions. Top shelf developers are best utilized as a last resort. Rails developers are expected to read and understand a TON of code. Hopefully you'll be reading good, idiomatic Ruby/Rails code. Jostling whether a class is Ruby or Rails is a common bump in the road.
