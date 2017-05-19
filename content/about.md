@@ -2,7 +2,7 @@
 draft = false
 author = "Andy Huynh"
 date = "2016-08-30T16:28:14-08:00"
-title = "About Me"
+title = "A Little About Me"
 +++
 
 <img src="/images/about-me.jpg" alt="about-me" width="260px"/>
