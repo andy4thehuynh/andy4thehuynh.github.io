@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mutate Ruby Objects Avoid Unnecessary Surprises"
-date:   2017-12-01 13:43:48 -0800
+date:   2016-09-13 13:43:48 -0800
 categories: ruby
 ---
 
